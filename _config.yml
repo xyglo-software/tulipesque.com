@@ -20,6 +20,7 @@
 
 title: Tulipesque
 email: your-email@example.com
+search_enabled: false
 description: >- # this means to ignore newlines until "baseurl:"
   Professional services for musea, museum educators and information technology.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,6 +33,12 @@ github_username:  bownie
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+
+#footer_content: "Copyright &copy; 2040 Tulipesque VOF"
+#color_scheme: dark
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

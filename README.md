@@ -75,6 +75,14 @@ Then run the bundle:
 $ bundle exec jekyll serve
 
 
+5. Downgrade jekyll version to match that of github (3.9.5)
+
+6. Play with the theme customisations
+
+https://just-the-docs.github.io/just-the-docs/docs/configuration/
+
+
+
 
 
 
