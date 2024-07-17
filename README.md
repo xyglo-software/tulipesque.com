@@ -63,7 +63,9 @@ $ jekyll new .
 
 ## Install the "just-the-docs" theme (if you like)
 
-For example from [here](https://dev.to/azukacchi/setting-up-github-pages-site-with-jekyll-tutorial-1l60)
+The [Just the Docs](https://github.com/just-the-docs) theme is clean and a good place to start.
+
+Lots of information about how to get it set up [here](https://dev.to/azukacchi/setting-up-github-pages-site-with-jekyll-tutorial-1l60)
 
 $ gem install just-the-docs
 
